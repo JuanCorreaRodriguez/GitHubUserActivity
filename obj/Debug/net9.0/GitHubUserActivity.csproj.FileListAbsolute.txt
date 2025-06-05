@@ -1,0 +1,14 @@
+C:\Users\jose-\source\repos\GitHubUserActivity\GitHubUserActivity\bin\Debug\net9.0\GitHubUserActivity.exe
+C:\Users\jose-\source\repos\GitHubUserActivity\GitHubUserActivity\bin\Debug\net9.0\GitHubUserActivity.deps.json
+C:\Users\jose-\source\repos\GitHubUserActivity\GitHubUserActivity\bin\Debug\net9.0\GitHubUserActivity.runtimeconfig.json
+C:\Users\jose-\source\repos\GitHubUserActivity\GitHubUserActivity\bin\Debug\net9.0\GitHubUserActivity.dll
+C:\Users\jose-\source\repos\GitHubUserActivity\GitHubUserActivity\bin\Debug\net9.0\GitHubUserActivity.pdb
+C:\Users\jose-\source\repos\GitHubUserActivity\GitHubUserActivity\obj\Debug\net9.0\GitHubUserActivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose-\source\repos\GitHubUserActivity\GitHubUserActivity\obj\Debug\net9.0\GitHubUserActivity.AssemblyInfoInputs.cache
+C:\Users\jose-\source\repos\GitHubUserActivity\GitHubUserActivity\obj\Debug\net9.0\GitHubUserActivity.AssemblyInfo.cs
+C:\Users\jose-\source\repos\GitHubUserActivity\GitHubUserActivity\obj\Debug\net9.0\GitHubUserActivity.csproj.CoreCompileInputs.cache
+C:\Users\jose-\source\repos\GitHubUserActivity\GitHubUserActivity\obj\Debug\net9.0\GitHubUserActivity.dll
+C:\Users\jose-\source\repos\GitHubUserActivity\GitHubUserActivity\obj\Debug\net9.0\refint\GitHubUserActivity.dll
+C:\Users\jose-\source\repos\GitHubUserActivity\GitHubUserActivity\obj\Debug\net9.0\GitHubUserActivity.pdb
+C:\Users\jose-\source\repos\GitHubUserActivity\GitHubUserActivity\obj\Debug\net9.0\GitHubUserActivity.genruntimeconfig.cache
+C:\Users\jose-\source\repos\GitHubUserActivity\GitHubUserActivity\obj\Debug\net9.0\ref\GitHubUserActivity.dll
