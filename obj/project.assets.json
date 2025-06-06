@@ -14,11 +14,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\jose-\\OneDrive\\Documents\\Git\\GitHubUserActivity\\GitHubUserActivity.csproj",
       "projectName": "GitHubUserActivity",
       "projectPath": "C:\\Users\\jose-\\OneDrive\\Documents\\Git\\GitHubUserActivity\\GitHubUserActivity.csproj",
       "packagesPath": "C:\\Users\\jose-\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jose-\\OneDrive\\Documents\\Git\\GitHubUserActivity\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\jose-\\OneDrive\\Documents\\Git\\test\\GitHubUserActivity\\GitHubUserActivity.csproj",
+      "projectName": "GitHubUserActivity",
+      "projectPath": "C:\\Users\\jose-\\OneDrive\\Documents\\Git\\test\\GitHubUserActivity\\GitHubUserActivity.csproj",
+      "packagesPath": "C:\\Users\\jose-\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jose-\\OneDrive\\Documents\\Git\\test\\GitHubUserActivity\\obj\\",
+>>>>>>> 4470eed161e12932a3010079bec896b19c50830a
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
