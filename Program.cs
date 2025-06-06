@@ -3,7 +3,7 @@
 using System;
 using System.Text.Json;
 
-Console.WriteLine("WRITE AN USER NAME");
+Console.WriteLine("Comment console unnecessary data");
 
 var username = Console.ReadLine();
 

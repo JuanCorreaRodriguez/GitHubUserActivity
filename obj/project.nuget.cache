@@ -1,14 +1,18 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "gXag4VI3daU=",
   "success": true,
   "projectFilePath": "C:\\Users\\jose-\\OneDrive\\Documents\\Git\\GitHubUserActivity\\GitHubUserActivity.csproj",
-=======
-  "dgSpecHash": "0QGbPOrDUmU=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\jose-\\OneDrive\\Documents\\Git\\test\\GitHubUserActivity\\GitHubUserActivity.csproj",
->>>>>>> 4470eed161e12932a3010079bec896b19c50830a
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\jose-\\OneDrive\\Documents\\Git\\GitHubUserActivity\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\jose-\\OneDrive\\Documents\\Git\\GitHubUserActivity\\GitHubUserActivity.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\jose-\\OneDrive\\Documents\\Git\\GitHubUserActivity\\GitHubUserActivity.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
