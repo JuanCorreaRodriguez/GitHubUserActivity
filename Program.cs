@@ -44,8 +44,6 @@ foreach (var item in events.EnumerateArray())
     }
     Console.WriteLine(action);
 }
-
-Console.WriteLine(events);
 // JuanCorreaRodriguez 
 Console.ReadLine();
 
