@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jose-\\source\\repos\\GitHubUserActivity\\GitHubUserActivity\\GitHubUserActivity.csproj": {}
+    "C:\\Users\\jose-\\OneDrive\\Documents\\Git\\test\\GitHubUserActivity\\GitHubUserActivity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jose-\\source\\repos\\GitHubUserActivity\\GitHubUserActivity\\GitHubUserActivity.csproj": {
+    "C:\\Users\\jose-\\OneDrive\\Documents\\Git\\test\\GitHubUserActivity\\GitHubUserActivity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jose-\\source\\repos\\GitHubUserActivity\\GitHubUserActivity\\GitHubUserActivity.csproj",
+        "projectUniqueName": "C:\\Users\\jose-\\OneDrive\\Documents\\Git\\test\\GitHubUserActivity\\GitHubUserActivity.csproj",
         "projectName": "GitHubUserActivity",
-        "projectPath": "C:\\Users\\jose-\\source\\repos\\GitHubUserActivity\\GitHubUserActivity\\GitHubUserActivity.csproj",
+        "projectPath": "C:\\Users\\jose-\\OneDrive\\Documents\\Git\\test\\GitHubUserActivity\\GitHubUserActivity.csproj",
         "packagesPath": "C:\\Users\\jose-\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jose-\\source\\repos\\GitHubUserActivity\\GitHubUserActivity\\obj\\",
+        "outputPath": "C:\\Users\\jose-\\OneDrive\\Documents\\Git\\test\\GitHubUserActivity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
